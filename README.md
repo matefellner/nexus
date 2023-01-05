@@ -1,5 +1,5 @@
 # Nexus
-The collection of data science tutorials and experiments
+The collection of data science tutorials and experiments, also some javascript
 
 # TODO:
 
