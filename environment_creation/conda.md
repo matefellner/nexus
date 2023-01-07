@@ -3,4 +3,6 @@ Origin: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c496712
 
     > conda create --name my_env python=3.9
     > conda activate my_env
+    > conda install jupyter
+    > python -m ipykernel install --user --name my_env --display-name "Python (my_env)"
     > conda deactivate
