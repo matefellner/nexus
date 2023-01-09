@@ -17,3 +17,11 @@ Finding bad labels in dataset
 
 Tutorial from calmcode.io
 https://github.com/cgnorthcutt/cleanlab
+
+
+## Dirty cat
+
+Dealing with categorical data
+String similarity enconding with ngrams
+
+https://dirty-cat.github.io/stable/index.html
