@@ -15,3 +15,26 @@ Can be exported to html
 
 Tutorial from calmcode.io
 https://facebookresearch.github.io/hiplot/index.html
+
+
+## Ipywidgets
+
+Interactive notebooks with sliders, buttons and text fields.
+
+Tutorial from calmcode.io
+https://calmcode.io/ipywidgets/introduction.html
+
+
+## Matplotlib
+
+Basic matplotlib tutorials
+
+From calmcode.io
+https://calmcode.io/matplotlib/introduction.html
+
+
+## Matplotlib gif
+
+
+From calmcode.io
+https://github.com/maxhumber/gif
