@@ -25,3 +25,25 @@ Dealing with categorical data
 String similarity enconding with ngrams
 
 https://dirty-cat.github.io/stable/index.html
+
+
+## Memo
+
+Saving experiment data.
+@memlist: function decorator to save output (as a dict) to create list of dicts where the keys are the function arguments
+@memfile: save this list of dicts to file
+grid and runner: parametertest running in parallel
+
+Tutorial from calmcode.io
+https://calmcode.io/memo/memlist.html
+
+
+
+## Pandas pipe
+
+Clean pandas code with decorators and pandas pipe
+
+log_step: function decorator to save name, shape and execution time
+df.pipe() apply previously defined function to dataframe
+
+https://calmcode.io/pandas-pipe/introduction.html
