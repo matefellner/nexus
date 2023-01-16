@@ -47,3 +47,19 @@ log_step: function decorator to save name, shape and execution time
 df.pipe() apply previously defined function to dataframe
 
 https://calmcode.io/pandas-pipe/introduction.html
+
+# Lin prog
+
+cvxpy library for linear and convex optimization problems.
+
+variable creation: cp.Variable(price.shape[0])
+objective function with vector operations: cp.Minimize(cp.sum(c@x))
+constraint creation: [x >= 0]
+also: constraints.append(x@df[key] >= value)
+
+Problem solving: 
+prob = cp.Problem(objective, constraints)
+prob.solve()
+
+Tutorial from calmcode.io
+https://www.cvxpy.org/
