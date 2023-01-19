@@ -28,7 +28,16 @@ String similarity enconding with ngrams
 https://dirty-cat.github.io/stable/index.html
 
 
-# Lin prog
+## Human learn
+
+Human-Learn contains scikit-learn compatible tools that should make it easier to construct and benchmark rule based systems that are designed by humans.
+You can also use it in combination with ML models.
+
+> python -m pip install human-learn
+
+See documantetion at: https://koaning.github.io/human-learn/index.html
+
+## Lin prog
 
 cvxpy library for linear and convex optimization problems.
 
