@@ -25,9 +25,23 @@ Tutorial from calmcode.io
 
 https://calmcode.io/decorators/introduction.html
 
+## Pathlib
+
+How to deal with files, paths and folders from python 
+
+Tutorial from calmcode.io
+
+https://calmcode.io/pathlib/do-not-hardcode.html
+
 ## Pytest
 
 Unittests in python
+
+## QR code generation in python
+
+Tutorial from calmcode.io
+
+https://calmcode.io/qr-code/generate.html
 
 ## Sympy
 
@@ -46,3 +60,5 @@ https://www.sympy.org/en/index.html
 ## Webscraping
 
 BeautifulSoup
+
+Gazpacho
