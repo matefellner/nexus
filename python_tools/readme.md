@@ -16,6 +16,13 @@ Source:
 
 https://github.com/MaxHalford/chime
 
+## Comprehensions
+
+Python comprehensions in lists and dicts with conditions
+
+Source:
+https://calmcode.io/comprehensions/introduction.html
+
 
 ## Decorators
 
@@ -24,6 +31,10 @@ Understanding function decorators in python
 Tutorial from calmcode.io
 
 https://calmcode.io/decorators/introduction.html
+
+## Iterators
+
+Python iterators from itertools
 
 ## Pathlib
 
@@ -55,6 +66,14 @@ Tutorial from calmcode.io
 Source:
 
 https://www.sympy.org/en/index.html
+
+## TQDM
+
+Progress bars on loops, nested loops with information
+
+Tutorial from calmcode.io
+
+https://calmcode.io/tqdm/making-a-progress-bar.html
 
 
 ## Webscraping
