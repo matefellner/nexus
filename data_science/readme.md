@@ -145,3 +145,7 @@ annotate(data, options_list, display_function)
 Tutorial from calmcode.io
 
 https://github.com/agermanidis/pigeon
+
+## PythonExcel
+
+Using openpyxl library to process xlsx files and convert them into dataframes
