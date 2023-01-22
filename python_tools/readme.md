@@ -36,6 +36,22 @@ https://calmcode.io/decorators/introduction.html
 
 Python iterators from itertools
 
+## Lambda
+
+Python one liners, lambda functions
+
+Source:
+
+https://calmcode.io/lambda/introduction.html
+
+## Method chains
+
+Creating method chains in Python using args, kwargs, comprehensions, lambda functions and classes
+
+Tutorial from calmcode.io
+
+https://calmcode.io/method-chains/introduction.html
+
 ## Pathlib
 
 How to deal with files, paths and folders from python 
