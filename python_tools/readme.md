@@ -52,6 +52,35 @@ Tutorial from calmcode.io
 
 https://calmcode.io/method-chains/introduction.html
 
+## Numba
+
+Speed up numeric code with compilation
+
+Tutorial from calmcode.io
+
+Source:
+https://numba.pydata.org/
+
+## Parallelism, Ray
+
+Speed up code with parallel execution.
+
+Tutorial from calmcode.io
+
+Source: 
+https://github.com/ray-project/ray
+
+## Parse
+
+Search for format strings.
+
+Tutorial from calmcode.io
+
+https://calmcode.io/parse/introduction.html
+
+Source:
+https://github.com/r1chardj0n3s/parse
+
 ## Pathlib
 
 How to deal with files, paths and folders from python 
