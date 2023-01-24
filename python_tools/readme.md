@@ -32,6 +32,17 @@ Tutorial from calmcode.io
 
 https://calmcode.io/decorators/introduction.html
 
+## Gin
+
+Creating configurations for python.
+
+pip install gin-config
+
+Tutorial from calmcode.io
+
+Source:
+https://github.com/google/gin-config
+
 ## Iterators
 
 Python iterators from itertools
@@ -43,6 +54,12 @@ Python one liners, lambda functions
 Source:
 
 https://calmcode.io/lambda/introduction.html
+
+## Logging
+
+Creating basic logger in logger_test.py
+
+Creating advanced logger in logger.py, with shell and file logging, different levels, different formatters
 
 ## Method chains
 
@@ -120,6 +137,9 @@ Tutorial from calmcode.io
 
 https://calmcode.io/tqdm/making-a-progress-bar.html
 
+## Tricks
+
+Small python tricks
 
 ## Webscraping
 

@@ -1,0 +1,10 @@
+simulate_2.n_samples = 100
+
+simulate_3.n_samples = 100
+simulate_3.random_func = @random_triangle
+
+random_triangle.minval = 0
+random_triangle.maxval = 100
+
+random.uniform.a = 0
+random.uniform.b = 100
