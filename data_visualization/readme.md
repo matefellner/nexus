@@ -25,6 +25,10 @@ Tutorial from calmcode.io
 https://calmcode.io/ipywidgets/introduction.html
 
 
+## Matplotlib_3d
+
+3D projection plots
+
 ## Matplotlib
 
 Basic matplotlib tutorials
