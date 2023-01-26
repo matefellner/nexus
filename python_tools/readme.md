@@ -47,6 +47,23 @@ https://github.com/google/gin-config
 
 Python iterators from itertools
 
+## Jax
+
+Fast differentiation and grad calculation.
+
+Tutorial from calmcode.io
+
+https://calmcode.io/jax/introduction.html
+
+Source:
+https://jax.readthedocs.io/en/latest/
+
+## Jupylab
+
+Time measurements, inline installation, documentation
+
+Tutorial from calmcode.io
+
 ## Lambda
 
 Python one liners, lambda functions
