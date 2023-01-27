@@ -149,3 +149,9 @@ https://github.com/agermanidis/pigeon
 ## PythonExcel
 
 Using openpyxl library to process xlsx files and convert them into dataframes
+
+## Tesseract
+
+Extracting text from images
+
+Tutorial from calmcode.io
