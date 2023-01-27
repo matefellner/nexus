@@ -16,6 +16,18 @@ Source:
 
 https://github.com/MaxHalford/chime
 
+## Collections
+
+Python collections:
+
+- namedtuple for class alternative
+- double ended que
+- defaultdict: dict with default values
+- counter
+- chainmap: merging dictionaries
+
+
+
 ## Comprehensions
 
 Python comprehensions in lists and dicts with conditions
@@ -23,6 +35,11 @@ Python comprehensions in lists and dicts with conditions
 Source:
 https://calmcode.io/comprehensions/introduction.html
 
+## Datefinder
+
+Library for date format parsing
+
+Tutorial from calmcode.io
 
 ## Decorators
 
@@ -158,8 +175,16 @@ https://calmcode.io/tqdm/making-a-progress-bar.html
 
 Small python tricks
 
+# Typeguard
+
+Enforcing input argument types on functions
+
 ## Webscraping
 
 BeautifulSoup
 
 Gazpacho
+
+## Watermark
+
+Showing machine and package versions
